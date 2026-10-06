@@ -182,7 +182,7 @@ W
 1. 5
 16-24
 ܀܀
-શ્
+ś
 17
 17
 18
@@ -216,9 +216,9 @@ kevalajñāna kī viśeṣatā
 gāyā hai
 33-43
 33
-૪
+4
 38
-૪૨
+42
 42
 jñānāvaraṇa karma kā svarūpa
 jñānāvaraṇa karma ke bheda aura unake lakṣaṇa
@@ -226,9 +226,9 @@ matijñānāvaraṇa ādi pā~ca bhedoṃ meṃ kauna deśaghātī aura sarvagh�
 darśanāvaraṇa karma ke bhedoṃ kī saṃkhyā
 44-54
 K
-૪૫
+45
 46
-૪૨
+42
 50
 51
 52
@@ -323,8 +323,8 @@ pṛṣṭha
 w it my m
 63
 63-66
-૪
-૪
+4
+4
 65
 7-6
 ês
@@ -479,7 +479,7 @@ PRA
 136
 140
 142-145
-૪૬
+46
 144
 145 - 146
 145
@@ -1209,7 +1209,7 @@ Page #78
 à
 36
 40
-૪o
+4o
 42
 43
 44
@@ -1606,7 +1606,7 @@ rasana i0
 1 vyaṃjanāvagraha
 ra
 arthāvagraha
-૪
+4
 avāya
 5 dhāraṇā
 ghāṇa i0
@@ -1822,7 +1822,7 @@ Page #121
 ﻿________________
 
 prathama kamaṃtra
-ફ્
+ph
 śrutajñāna ke bīsa meda
 gāthā meṃ paryāya, akṣara ādi dasa nāma gināye haiṃ| una nāmoṃ tathā una nāmoṃ meṃ se pratyeka ke sātha samāsa śabda joḍa़ dene se śrutajñāna ke bīsa bhedoṃ ke nāma isa prakāra haiṃ
 (1) paryāyaśruta,
@@ -2454,7 +2454,7 @@ Page #164
 
 karmavipāka
 anantānubandhī krodha - parvata phaṭane se āī darāra kabhī nahīṃ juḍa़tī, isī prakāra yaha krodha pariśrama aura āya karane para bhī śānta nahīṃ hotā hai |
-૬૪
+64
 saṃjvalana māna -- binā pariśrama ke namāye jāne vāle beṃta ke samāna kṣaṇamātra meṃ apane āgraha ko choḍa़kara namane vālā hotā hai |
 pratyākhyānāvaraṇa māna - sūkhe kāṣṭha meṃ tela ādi kī māliśa karane para naramāī āne kī saṃbhāvanā ho sakatī hai| isī prakāra yaha mahāna kucha pariśrama aura upāyoṃ se dūra hone vālā hotā hai |
 apratyākhyānāvaraṇa māna-jaise haḍḍī ko namāne ke liye kaṭhina pariśrama ke sivāya bhī hai ai

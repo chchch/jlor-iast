@@ -71,7 +71,7 @@ re
 4
 f.
 10
-શ્
+ś
 45
 4e
 46
@@ -156,14 +156,14 @@ wa
 56
 57
 52
-૬
+6
 65
 ክን
 67
 80
 安い
 Et
-૨
+2
 EX
 105
 115
@@ -268,7 +268,7 @@ vayaṇaṃ |
 || 35 ||
 ||36||
 141||
-I૪ll
+I4ll
 
 Page #12
 --------------------------------------------------------------------------
@@ -703,7 +703,7 @@ J
 + samudāyāvayavayondhahetutvaṃ vākyaparisamāpte viśyāt |"
 - tasvārtha, adhyāya 6 sū0 1, bāttika 31 |
 "vikalpa parātmā, pītamohāsavāṃ hyayam | mavoccatālamusāla, prapañcamadhitiṣṭhati ||4||"
-ક્
+k
 --- jñānasāra, mohāṣṭaka |
 
 Page #49
@@ -1623,7 +1623,7 @@ Page #114
 ﻿________________
 
 karmagrantha bhāga cāra
-૪૨
+42
 pariśiṣṭa ""
 pṛṣṭha 21 ke krama māvoṃ śabda para
 chabhastha ke upayoga kamabhāvī haiṃ, isameṃ matabheda nahīṃ hai, para kevalī ke upayoga ke sambandha meṃ mukhya tīna pakṣa hai:
@@ -1827,7 +1827,7 @@ Page #127
 --------------------------------------------------------------------------
 ﻿________________
 
-૬
+6
 karmagrantha māga cāra
 (3) 'māyā' use kahate haiṃ, jisase, chala-kapaṭa meṃ pravṛtti hotī hai | (4) 'lobha' mamaśvako kahate haiṃ |
 (7) jñānamārgaṇā ke bhedoṃ kā svarūpaḥ
@@ -3463,7 +3463,7 @@ Page #245
 ﻿________________
 
 f
-{૭૪
+{74
 karmagrantha bhāga cāra tīvratama isī prakāra śulkaleśyā ko bhī pahale guṇasthāna meṃ matimama aura terahaveṃ meṃ atitīvratama mānakara uparyukta rīti se guṇasthānoṃ meṃ unakā sambandha batalāyā hai!
 cāra bandha- hetu' -- (1) 'mimyāśva' mātmā kā vaha pariṇāma hai, jo
 J
@@ -3826,7 +3826,7 @@ catvāraścaturgatiṣu miśrakapariṇāmoda matvāraḥ māpakaiḥ | upadyama
 artha-lāyopaśamika, pāriṇāmika aura praudabika, ina sīna bhāvakā trika-saṃyogarūpa sāṃnipātika-bhāva ra gatimeṃ pāye jāne ke kāraṇa cāra prakārakā hai| ukta tīna aura eka śābika, ina cāra bhāvakā catuḥ saṃyogarūpa sāṃnipātika-bhāṣa tathā ukta tīna aura eka aupaśamika ina cārakā catuḥ- saṃyogarūpa sāṃnipātika bhāva bāra gatimeṃ hotā hai| isaliye ve do sāṃnipātika-bhāva bhī cāra-cāra prakārake haiṃ| pārigrāmiṇa, audadhika śrīrādhikā trika-saṃyogarūpa lāṃnipātika bhāva sirpha śarīradhārī kevalānīko hotā hai| jñāyika aura pāriṇāmikakā dvika saṃyogarūpa sāṃnipātika-bhāva sirpha siddha jīvoṃ meṃ pāyā jātā hai | pā~coṃ bhāvakā paśca saṃyogarūpa sāṃnipātika-bhāva, upabhramaśreṇivāle manuṣyoṃmeṃ hī hotā hai | rītise chaha sāṃnipātika bhāvoṃke paṃdraha bheda hote haiṃ| śeṣa bīsa sāṃnipātika bhāva saṃbhavī arthāt śunya hai | 67||68||
 u
 י
-૨૦
+20
 bhāvārtha - śrapaśamika ādi pāṃca bhāṣomaise do, tīna, cāra yā pā~ca bhāvoṃke milane para sāṃnipātika-bhāva hotā hai| do mādhoke melale honevālā sāṃnipātika 'dvika-saṃyoga', tīna bhāṣauke melase honevālā 'trika saṃyoga', cāra bhāvo ke mela se honevālā 'catussaṃyoga aura pā~va bhāvake melase honevālā 'pañca-saṃyoga' kahalātā hai| dvika-saṃyogake dasa bheda:
 1 - aupaśamika + kṣāyika |
 2- śrapaśamika + kṣāyopaśamika |
@@ -3835,7 +3835,7 @@ Page #273
 --------------------------------------------------------------------------
 ﻿________________
 
-મ
+ma
 3 śrapaśamika + auaudadhika |
 --
 4- śrīpayamika + pāriṇāmika 5 - kṣāyika + kṣāyopaśamika | 6- kṣāyika + śradayika | - kṣāyika + pāriṇāmika | - kṣāyopaśamika + mauyika | hai--- kṣāyopaśamika pārimika 10 - maudayika + pāriṇāmika |
@@ -3865,7 +3865,7 @@ Page #275
 ﻿________________
 
 karmagrabhtha bhāga cāra
-રાય
+rāya
 bhāva jīvatva ādirūpa bhīra kṣāyika-bhāva kevalajñāna ādirūpa hai | pañca- saṃyogarūpa sāṃnipātika-bhāva sirpha upaśamamedivāle matuhotā hai| isa kāraṇa vaha eka hī prakārakā hai: upaśamaśreṇivāle manuṣyoṃmeṃ śāyika-bhāva samyayarūpa
 -
 rūpa, kṣāyopaśamika-bhāva bhāvendriya śādirūpa, pāriṇāmika-bhāva jīvatva ādirūpa aura maudayika bhāva leśyā āvirūpa hai|
@@ -3884,7 +3884,7 @@ Page #276
 ﻿________________
 
 karmagrantha māga pāra
-મ
+ma
 basakī avasthā-viśeṣose hai| jaise:- pharma kī upagrāma avasthā usakā śrīpathamika-bhāva, kṣayopaśama avasthā kṣāyopaśamika-bhāva, jayaavasthā kṣāyika-bhāṣa, udaya-avasthā madavika-bhāṣa aura paribhramanaavasthā pāriṇāmika-bhāṣa hai|
 upaśrama-avasthā mohanīyakarmake sivāya anya kamakī nahīṃ hotī? isaliye aupaśamika-bhāṣa mohanīyakarmakā hī kahā gayā hai| kabopaśuma cāra ghātikarmakā hī hotā hai: isa kāraṇa kṣāyopaśamika-bhāva śālikakā hī mānā gayā hai| viśeṣatā itanī hai ki kevalavānādharaṇīya aura kevaladarśanāvaraṇīya, ina do dhātikarma-prakṛtiooṃke vipākodayakā nirodhana honeke kāraṇa inakā kṣayopaśama nahīṃ hotā | jñāyika, pāriṇāmika aura audayika, ye tīna bhāṣa ghāṭho karmake hai: kyoṃki kṣaya, pariṇamana aura udaya, ye tīna avasthāe~ āṭho karma kī hotī haiṃ| sārāṃśa yaha hai ki mohanīyakarmake pā~coṃ bhāva, mohanīyake sivāya sīna ghātikarmake cāra bhāva aura cāra bhaghātikarma ke tīna bhāṣa haiṃ | ajīvadravyake bhāṣa |
 dharmāstikāya, adharmāstikāya, śrākāśāstikāya, kāla aura puchavāstikāya, ye pā~ca śrajīvadravya haiṃ| punāstikāyake sivāya śeṣa cāra ajīvadravyoṃke pāriṇāmika-bhāva hī hotā hai| dharmāstikāya, jīva- putralokī gatimeṃ sahāyaka bananerūpa apane kāryameṃ anādi kālase parikṣata huā karatā hai| adharmāstikāya, sthitimai sahā
@@ -4311,7 +4311,7 @@ Page #308
 ﻿________________
 
 samagrandha bhāga cāra
-રા
+rā
 ādi saṃjñāoṃ kā vistṛta varṇama hai, para digambara-anyoṃ meṃ nahīṃ hai | pṛ0-16
 śvetāmbara-śāstra prasiddha karaṇaparyāpta śaṣya ke sthāna meṃ vigamyaraśāstra meṃ nityaparyāpta śabda hai| dhyālyā bhī dono śabdo kī kucha bhita hai| pṛ0-41|
 śvetāmbara-mantho meṃ kevalajñāna tathā kethaladarśana kā kamāvitva, sahamāviśva aura ameva, ye tīna pakṣa haiṃ, parantu digambara-mantho meṃ sahabhāritva kā eka hī pakṣa hai| pṛ0-43 |
@@ -4506,7 +4506,7 @@ paṅkti |
 140 maiṃ
 28
 1
-૬ 2‍
+6 2‍
 6 1
 164 25
 210 17
@@ -4634,13 +4634,13 @@ dravyavacana
 dravyendriya
 { 3‍ 8 3
 da |
-65 ર્
+65 r
 5
 38 22
 dṛṣṭivādoṣapeśikī saṃjñā 3826
 3
 135 13
-મ
+ma
 16
 1
 15
@@ -4881,7 +4881,7 @@ gā| . prā0
 11-avahi 37,83 - avi
 57-aviuviyāhāra
 saṃ0 | avadhi api
-૨૬
+26
 akriyāhāra avirati avirata
 50,51,56,57-aviraha
 63-aviraya
@@ -5425,7 +5425,7 @@ do taraha se |
 bevagati |
 devendrasūri ( isa grantha ke karttā ) |
 deśavirati' nāmaka pā~cavā~ guṇasthāna |
-૪
+4
 karmagrantha bhāga cāra
 
 Page #346
@@ -5627,7 +5627,7 @@ madhyavara
 'bhaya aura pāmya' nāmaka jīvoṃ
 varga:piseṣa| śrīdoṃ ke pariṇāma | 'asatyā mṛ'-māmaka vana-yoga
 bhāṣa
-વરી
+varī
 .
 .
 .

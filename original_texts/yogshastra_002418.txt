@@ -314,13 +314,13 @@ Page #19
 149
 sulasa ke dvārā kulaparaṃparāgata hiṃsā kā tyāga 112 hiṃsopadeśa vyakti aura tathākathita upadeśa kī niṃdā 118 yajña meṃ kī gayī paśuhiṃsā krūrapāpaphaladāyinī hai 119 hiṃsāparaka śāstravacanoṃ ke namūne
 120 ahiṃsā kī mahimā |
-૧૨૧ hiṃsāparaka śāstravacanoṃ ke namūne, ahiṃsā kā phala ૧૨૨ sthūla asatya ke pāṃca prakāra
-૧૨૩ asatya niṣedha
+121 hiṃsāparaka śāstravacanoṃ ke namūne, ahiṃsā kā phala 122 sthūla asatya ke pāṃca prakāra
+123 asatya niṣedha
 124 asatya ke cāra bheda evaṃ asatya kā phala
-૧૨૯ kālikācārya kī kathā
-૧૨ vasurājā kī kathā
-૧૭ vasurājā kā naraka gamana, kauśika kā naraka gamana 130 asatyavacana se doṣa aura satyavacana kī mahimā 131 adattādāna aura usase hone vāle duṣpariṇāmoṃ kā varṇana .
-૧૩૨ mūladeva kī kathā
+129 kālikācārya kī kathā
+12 vasurājā kī kathā
+17 vasurājā kā naraka gamana, kauśika kā naraka gamana 130 asatyavacana se doṣa aura satyavacana kī mahimā 131 adattādāna aura usase hone vāle duṣpariṇāmoṃ kā varṇana .
+132 mūladeva kī kathā
 133 mūladeva kī kathā
 134 corī se nivṛtta hone kā phala
 147 maithuna sevana se jīvahiṃsā
@@ -350,15 +350,15 @@ sulasa ke dvārā kulaparaṃparāgata hiṃsā kā tyāga 112 hiṃsopadeśa vy
 198 rātri bhojana meṃ doṣa
 199 rātribhojana se hone vālī hāniyā~
 200 rātribhojanatyāga ke saṃbaṃdha meṃ anya dharmaśāstroṃ va āyurvedaśāstra ke mata
-૨૦૧ rātribhojana kā duṣphala aura usake tyāga suphala ૨૦૨ rātribhojana evaṃ dvidala kā vivaraṇa
-૨૦૩ tyājya sūkṣmajīvasaṃsakta bhojana evaṃ cāra prakāra kā anarthadaṃḍa
-૨૦૪ ārtarodradhyāna kā svarūpa aura pāpopadeśarūpa anarthadaṃḍa 205 pramādācaraṇa kā varṇana pramādācaraṇarūpa anarthadaṃḍa kā tyāga evaṃ sāmāyikavrata kā lakṣaṇa
+201 rātribhojana kā duṣphala aura usake tyāga suphala 202 rātribhojana evaṃ dvidala kā vivaraṇa
+203 tyājya sūkṣmajīvasaṃsakta bhojana evaṃ cāra prakāra kā anarthadaṃḍa
+204 ārtarodradhyāna kā svarūpa aura pāpopadeśarūpa anarthadaṃḍa 205 pramādācaraṇa kā varṇana pramādācaraṇarūpa anarthadaṃḍa kā tyāga evaṃ sāmāyikavrata kā lakṣaṇa
 207
 152
 194
 196
 161
-૨૦૬
+206
 xiii
 
 Page #20
@@ -387,8 +387,8 @@ bhogoṃ ke athāhasamudra meṃ ḍūbā huā śālibhadra tyāga kī ora
 dhannā - śālibhadra muniyoṃ dvārā anaśana aura mātā bhadrā dvārā kheda prakāśana
 aticāroṃ kā varṇana
 prathama aṇuvrata ke pāṃca aticāroṃ para vivecana prathama aṇuvrata ke aticāroṃ kā varṇana dvitīya aṇuvrata ke pāṃca aticāroṃ para vivecana dūsare vrata ke aticāra
-૨૦૮
-૨૦૧૬
+208
+2016
 210
 tṛtīya aṇuvrata ke pāṃca aticāroṃ para vivecana brahmacaryāṇuvrata ke pāṃca aticāroṃ para vivecana svadāra saṃtoṣa aura paradārātyāga nāmaka vrata ke aticāroṃ ke bāre meṃ spaṣṭīkaraṇa
 pāṃcave vrata ke aticāra
@@ -400,25 +400,25 @@ daṃta- lākṣārasa keśa vāṇijya karma kā svarūpa
 217
 218
 219
-૨૨૦
-૨૨૧
-૨૨૨
-૨૨૩
-૨૨૪
-૨૨૧
+220
+221
+222
+223
+224
+221
 • 226
-૨૦
-૨૨૮
-૨૨૬
+20
+228
+226
 230
 231
-૨૩૨
+232
 TIT
-૨૩૪
+234
 235
 236
-૨૩૭
-૨૩૮
+237
+238
 S
 Xiv
 viṣavāṇijya aura yaṃtra pīḍana karma
@@ -444,7 +444,7 @@ devavaṃdana ke bāda śrāvaka kī dinacaryā kā varṇana saṃdhyā kā kā
 guruvaṃdana pāṭha vidhi aura vivecana guru vaṃdana sutra ke artha
 240
 241
-૨૪૨
+242
 243
 244
 245
@@ -464,21 +464,21 @@ guruvaṃdana pāṭha vidhi aura vivecana guru vaṃdana sutra ke artha
 269
 270
 271
-૨૭૩
-ગુજ
+273
+guja
 275
 276
-૨૭
-૨૦૪
-૨૦૧
+27
+204
+201
 280
 281
-૨૨
-૨૮૨
+22
+282
 284
 285
 286
-૨૮૦
+280
 
 Page #21
 --------------------------------------------------------------------------
@@ -487,13 +487,13 @@ Page #21
 266
 da
 323
-૨૬૯
-૩૨૧
+269
+321
 299
-guruvaṃdana sūtra ke avaśiṣṭa pāṭha para vivecana vaṃdanavidhi kī āgamokta gāthāoṃ kā artha ૨૮s guru āśātanā para vivecana
-૨૬o ālocanā pāṭha ke artha
-૨૧૧ ālocanā pāṭha ke artha
-૨૧૨ ālocanā pāṭha evaṃ abbhuṭhiyoṃ sūtra ke artha 293 pratikramaṇa śabda kā artha, vivecana, vaṃdana se lābha ૨૦૪ sāmānya pratikramaṇa svarupa devasika, rātrika evaṃ pākṣika pratikramaṇa kī vidhi ૨૬ kāyotsarga ke doṣa
+guruvaṃdana sūtra ke avaśiṣṭa pāṭha para vivecana vaṃdanavidhi kī āgamokta gāthāoṃ kā artha 28s guru āśātanā para vivecana
+26o ālocanā pāṭha ke artha
+211 ālocanā pāṭha ke artha
+212 ālocanā pāṭha evaṃ abbhuṭhiyoṃ sūtra ke artha 293 pratikramaṇa śabda kā artha, vivecana, vaṃdana se lābha 204 sāmānya pratikramaṇa svarupa devasika, rātrika evaṃ pākṣika pratikramaṇa kī vidhi 26 kāyotsarga ke doṣa
 297 pratyākhyāna kī vyākhyā
 298 'namukkārasahiya' (nokārasī) porasī paccakkhāṇa ke āgāroṃ kī vyākhyā porisī aura 'purimaī' - paccakkhāṇa ke pāṭha aura una para vivecana
 300 ekāśana-ekalaṭhāṇā para vivecana
@@ -509,11 +509,11 @@ guruvaṃdana sūtra ke avaśiṣṭa pāṭha para vivecana vaṃdanavidhi kī 
 305
 vividha gatiyoṃ kī duḥkhamaya sthiti evaṃ upasargoṃ meṃ dṛḍha़tā kā ciṃtana kare
 318 kāmadeva kā kathānaka
-319 deva dvārā kaṭhora parīkṣā meṃ uttīrṇa kāmadeva śrāvaka ૩૨૦ śrāvaka ke 6 manorathoṃ kā varṇana śrāvaka ke manoratha
-૩૨૨ śrāvaka kī 11 pratimā saṃlekhanā : lakṣaṇa, sthāna, vidhi aura aticāra ૩૨૪ saṃlekhanā, pariṣaha svarūpa bāisa pariṣahoṃ para vivecana
+319 deva dvārā kaṭhora parīkṣā meṃ uttīrṇa kāmadeva śrāvaka 320 śrāvaka ke 6 manorathoṃ kā varṇana śrāvaka ke manoratha
+322 śrāvaka kī 11 pratimā saṃlekhanā : lakṣaṇa, sthāna, vidhi aura aticāra 324 saṃlekhanā, pariṣaha svarūpa bāisa pariṣahoṃ para vivecana
 326 ānaṃdaśrāvaka kī aṃtima dharmakriyā
-૩૭ ānaṃdaśrāvaka kī kathā
-૩૨૮ śrāvakadharma pālaka gṛhastha kī bhāvī sadgati 329 śrāvakadharma pālaka gṛhastha kī bhāvī sadgati 330 kaṣāya : lakṣaṇa, bheda-prabheda evaṃ vivecana kaṣāya-svarūpa
+37 ānaṃdaśrāvaka kī kathā
+328 śrāvakadharma pālaka gṛhastha kī bhāvī sadgati 329 śrāvakadharma pālaka gṛhastha kī bhāvī sadgati 330 kaṣāya : lakṣaṇa, bheda-prabheda evaṃ vivecana kaṣāya-svarūpa
 333 krodha kā svarūpa, duṣpariṇāma evaṃ use jītane kā upāya
 334 mānakaṣāya aura usake kuphala
 335 mārdava evaṃ māyā kā svarūpa aura usake pariṇāma 336 māyā evaṃ saralatā kā svarūpa
@@ -533,7 +533,7 @@ vividha gatiyoṃ kī duḥkhamaya sthiti evaṃ upasargoṃ meṃ dṛḍha़t
 357 aśuci bhāvanā
 358 āśrava bhāvanā
 359 āśrava bhāvanā svarūpa - āṭha karma ke āśrava hetu. 360
-૨૪૨
+242
 3la
 316
 XV
@@ -551,38 +551,38 @@ kāla jñāna kā vijñāna
 417 jaya parājaya kā jñāna praśna karane ke samaya se lābha hāni
 418 kāryasiddhi-asiddhi putra-putrī viṣayaka praśnoṃ ke uttara 419 bindu jñāna se kāla nirṇaya
 420 nāḍa़ī saṃcārajñāna kā phala, vedha vidhi
-૪૨૧ vedha-vidhi parakāya praveśa vidhi - evaṃ upasaṃhāra ૪૨૨ dhāraṇā ke sthāna
-425 dhyāna sādhanā kā krama, piṇḍastha kā svarūpa ૪૭ piṃḍasthadhyāna kā mahātmya
-૪૨૮ padastha dhyāna kā svarupa rupastha dhyāna kā svarūpa
+421 vedha-vidhi parakāya praveśa vidhi - evaṃ upasaṃhāra 422 dhāraṇā ke sthāna
+425 dhyāna sādhanā kā krama, piṇḍastha kā svarūpa 47 piṃḍasthadhyāna kā mahātmya
+428 padastha dhyāna kā svarupa rupastha dhyāna kā svarūpa
 439 rūpātīta dhyāna kā svarupa, dharmadhyāna ke bheda dharmadhyāna dhyāna kā svarūpa
 442 dharmadhyāna kā svarūpa
 443 śukladhyāna kā svarūpa anubhavita yoga kā varṇana
 456 anubhavita yoga kā varṇana - upasaṃhāra
 461 upasaṃhāra
 375
-૪૨૬
+426
 381
 āśrava bhāvanā svarūpa - āṭha karma ke āśrava hetu 361 saṃvarabhāvanā kā svarūpa
-૩૬૨ saṃvarabhāvanā evaṃ nirjarā bhāvanā kā svarūpa
+362 saṃvarabhāvanā evaṃ nirjarā bhāvanā kā svarūpa
 363 nirjarā bhāvanā kā svarūpa
 364 nirjarā bhāvanā tapa kā svarūpa
 365 prāyaścitta tapa ke dasa bheda, unakā lakṣaṇa aura phala 366 abhyaṃtara tapa kī vyākhyā
-૩૬૭ abhyaṃtara tapa kī vyākhyā
+367 abhyaṃtara tapa kī vyākhyā
 368 tapa nirjarā kā kāraṇa
 369 samyagdharma ke 10 bheda
 370 dharma 'phala' evaṃ dharma 'vicāra'
 373 dharmasvākhyātabhāvanā meṃ prayukta dharma anyamatīya graṃthoṃ meṃ nahīṃ
-૩૪ loka bhāvanā kā vistṛta varṇana loka svarupa bhāvanā
-૨૭ vyaṃtaradevoṃ aura jyotiṣkadevoṃ kā varṇana
-૩૭ vyaṃtara devoṃ aura jyotiṣkadevoṃ kā varṇana
-૩૭૮ jaṃbuddhīpa ādi dvipoṃ kā varṇana
+34 loka bhāvanā kā vistṛta varṇana loka svarupa bhāvanā
+27 vyaṃtaradevoṃ aura jyotiṣkadevoṃ kā varṇana
+37 vyaṃtara devoṃ aura jyotiṣkadevoṃ kā varṇana
+378 jaṃbuddhīpa ādi dvipoṃ kā varṇana
 379 jaṃbudvīpa ādi dvīpa-kṣetra kā varṇana
 380 antaraddhīpa varṇana anārya deśa aṃtaraddhīpa, naṃdīdharaddhīpa varṇana
-૨૮૨ naṃdīśvara dvīpa evaṃ devaloka kā varṇana devaloka kā varṇana loka kā viśeṣa svarūpa bodhi durlabha bhāvanā 385 bodhi durlabha bhāvanā samatādhikāra svarūpa
+282 naṃdīśvara dvīpa evaṃ devaloka kā varṇana devaloka kā varṇana loka kā viśeṣa svarūpa bodhi durlabha bhāvanā 385 bodhi durlabha bhāvanā samatādhikāra svarūpa
 387 dhyāna svarupa
 366 maitryādi bhāvanā svarūpa dhyāna kahā~ aura kauna kare? āsana kaisā ho? 390 vividha āsana aura unake lakṣaṇa
 391 vividha āsanoṃ kā varṇana
-૩૬૨ mana kī sthiratā rahe vaisā āsana
+362 mana kī sthiratā rahe vaisā āsana
 393 dhyāna ke yogya āsana, unakī vidhi evaṃ upayogitā 394 prāṇāyāma ādi kā svarūpa
 396 prāṇāyāma kā svarūpa
 397 prāṇāyāma ādi kā svarupa
